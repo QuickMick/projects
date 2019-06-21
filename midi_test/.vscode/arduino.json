@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328",
+    "sketch": "midi_test.ino",
+    "programmer": "Arduino as ISP",
+    "output": "../build"
+}
